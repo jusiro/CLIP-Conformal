@@ -22,7 +22,11 @@ CLIP-Conformal/
         └── ucf101
 ```
 
-In the following, we provide specific download links and expected structure for each individual dataset.
+In the following, we provide specific download links and expected structure for each individual dataset. You can find
+the ```classname.txt``` file for imagenet shifts at ```./imagenet/```. For other datasets, train/text splits are located at 
+```./splits/```. You should paste such files into its corresponding dataset's folders. These split files are originally from 
+[CoOp](https://github.com/KaiyangZhou/CoOp/)'s work (Thanks!). You may want to take a look to its repository ([LINK](https://github.com/KaiyangZhou/CoOp/blob/main/DATASETS.md)) 
+for getting detailed dataset links.
 
 ### caltech-101
 
