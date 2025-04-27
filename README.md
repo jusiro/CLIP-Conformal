@@ -1,10 +1,21 @@
 # Conformal Prediction for Vision-Language Models
+
+<img src="./local_data/media/confvlms_overview.png" width = "750" alt="" align=center /> <br/>
+
 The official implementation of [*Conformal Prediction for Zero-Shot Models*]().<br/>
+📜 <span style="color:red">*IEEE/CVF Conference on Computer Vision and Pattern Recognition*</span> \
+[Julio Silva-Rodríguez](https://scholar.google.es/citations?user=1UMYgHMAAAAJ&hl),
+[Ismail Ben Ayed](https://scholar.google.es/citations?user=29vyUccAAAAJ&hl),
+[Jose Dolz](https://scholar.google.es/citations?user=yHQIFFMAAAAJ&hl) ⋅ ÉTS Montréal
+<br/>
+| [Project](https://jusiro.github.io/projects/confot) | [Conference]() | [ArXiv]() | [Code](https://github.com/jusiro/CLIP-Conformal) |
+<br/>
 
 
 ### Install
 
 * Install in your enviroment a compatible torch version with your GPU. For example:
+
 ```
 conda create -n clipconformal python=3.11 -y
 conda activate clipconformal
