@@ -52,7 +52,6 @@ Please, inspect the input options in [`conformal_prediction.py`](conformal_predi
 - Additional datasets.
 - Additional backbones CLIP (RN101, ViT-B/32, ViT-B/16, ViT-L/14) and MetaCLIP (ViT-B/16, ViT-H/14).
 - Non-conformity scores (LAC, APS, RAPS).
-- Transfer learning baselines (TIM, TransCLIP).
 
 
 ## Citation
