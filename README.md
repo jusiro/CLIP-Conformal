@@ -63,5 +63,5 @@ If you find this repository useful, please consider citing this paper:
     author={Julio Silva-Rodr\'iguez and Ismail {Ben Ayed} and Jose Dolz},
     booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
     year={2025}
-    }
+}
 ```
