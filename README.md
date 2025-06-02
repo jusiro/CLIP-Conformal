@@ -8,7 +8,7 @@ The official implementation of [*Conformal Prediction for Zero-Shot Models*]().<
 [Ismail Ben Ayed](https://scholar.google.es/citations?user=29vyUccAAAAJ&hl),
 [Jose Dolz](https://scholar.google.es/citations?user=yHQIFFMAAAAJ&hl) ⋅ ÉTS Montréal
 <br/>
-| [Project](https://jusiro.github.io/projects/confot) | [Conference]() | [ArXiv]() | [Code](https://github.com/jusiro/CLIP-Conformal) |
+| [Project](https://jusiro.github.io/projects/confot) | [Conference](https://arxiv.org/abs/2505.24693) | [ArXiv](https://arxiv.org/abs/2505.24693) | [Code](https://github.com/jusiro/CLIP-Conformal) |
 <br/>
 
 
