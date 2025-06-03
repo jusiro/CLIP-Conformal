@@ -2,7 +2,7 @@
 
 <img src="./local_data/media/confvlms_overview.png" width = "750" alt="" align=center /> <br/>
 
-The official implementation of [*Conformal Prediction for Zero-Shot Models*]().<br/>
+The official implementation of [*Conformal Prediction for Zero-Shot Models*](https://arxiv.org/abs/2505.24693).<br/>
 📜 <span style="color:red">*IEEE/CVF Conference on Computer Vision and Pattern Recognition*</span> \
 [Julio Silva-Rodríguez](https://scholar.google.es/citations?user=1UMYgHMAAAAJ&hl),
 [Ismail Ben Ayed](https://scholar.google.es/citations?user=29vyUccAAAAJ&hl),
