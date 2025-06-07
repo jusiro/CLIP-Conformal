@@ -58,10 +58,12 @@ Please, inspect the input options in [`conformal_prediction.py`](conformal_predi
 
 If you find this repository useful, please consider citing this paper:
 ```
-@inproceedings{confot,
-    title={Conformal Prediction for Zero-Shot Models},
-    author={Julio Silva-Rodr\'iguez and Ismail {Ben Ayed} and Jose Dolz},
-    booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-    year={2025}
+@inproceedings{Silva-Rodriguez_2025_CVPR,
+    author    = {Silva-Rodríguez, Julio and Ben Ayed, Ismail and Dolz, Jose},
+    title     = {Conformal Prediction for Zero-Shot Models},
+    booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
+    month     = {June},
+    year      = {2025},
+    pages     = {19931-19941}
 }
 ```
